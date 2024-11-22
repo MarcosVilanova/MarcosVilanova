@@ -1,19 +1,43 @@
-## Olá! Eu sou o Marcos Vilanova🖐️
+## <div align="left"> Hi! I'm Marcos Vilanova 🖐️</div>
 
-💻 Sou estudante de Desenvolvimento de Sistemas
+> Junior Developer and Currently a Systems Development Student 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcosvilanova/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcosvilanova0000@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_henrique_vilanova/)
+### 🚀 Programming Languages
 
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" width="38"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" width="38"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" width="38"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="JAVA" width="38"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MYSQL" width="38"> |
+|---|---|---|---|---|
+| HTML5 | CSS3 | PHP | Java | MySQL |
 
-## Tecnologias que eu uso no meu dia
+---
 
-<div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-</div><br/>
+### 🛠️ Tools & Frameworks
 
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="38"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="VS Code" width="38"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" alt="Visual Studio" width="38"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="38"> |
+|---|---|---|---|
+| Git | VS Code | Visual Studio | MySQL |
+
+---
+
+### 📊 GitHub Stats
+
+<div align="left">
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosVilanova&langs_count=8&theme=tokyonight&layout=compact" alt="Top Langs" width="350" />
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=MarcosVilanova&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400" />
+  </p>
+</div>
+
+---
+
+### 🌐 Connect with Me
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/marcosvilanova/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="38" >
+  </a> &nbsp;
+  <a href="https://www.instagram.com/_henrique_vilanova/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="38">
+  </a>
+</div>
