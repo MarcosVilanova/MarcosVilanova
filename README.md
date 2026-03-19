@@ -10,7 +10,7 @@
 ### Main skills
 [![My Skills](https://skillicons.dev/icons?i=java,spring,js,react,vite,bootstrap,mysql,html,css,php,cs)](https://skillicons.dev)
 
-### Ferramentas & IDEs
+### Tools & IDEs
 [![Tools](https://skillicons.dev/icons?i=git,github,postman,webstorm,idea,visualstudio,vercel)](https://skillicons.dev)
 
 ### Statitics
