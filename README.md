@@ -1,49 +1,31 @@
-## Hi! I'm Marcos Vilanova 🖐️  
-> 👨‍💻 Junior Developer | 🎓 Systems Development Student  
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=E9ECEF&height=120&section=header&text=&fontColor=000000" alt="header"/>
 
----
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F8F9FA&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Hello+World+%F0%9F%91%8B;npm+run+dev+%F0%9F%9A%80" 
+    alt="Typing SVG" 
+  />
+</p>
 
-### 🚀 Programming Languages
+### Main skills
+[![My Skills](https://skillicons.dev/icons?i=java,spring,js,react,vite,bootstrap,mysql,sqlite,html,css,php,cs)](https://skillicons.dev)
 
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="38"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="38"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="38"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="38"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="38"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="38"> |
-|---|---|---|---|---|---|
-| HTML5 | CSS3 | PHP | Java | JavaScript | MySQL |
+### Ferramentas & IDEs
+[![Tools](https://skillicons.dev/icons?i=git,github,postman,webstorm,idea,visualstudio,vercel)](https://skillicons.dev)
 
----
-
-### 📦 Frameworks
-
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="38"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="38"> |
-|---|---|
-| Bootstrap | Spring Boot |
-
----
-
-### 🛠️ Tools & IDEs
-
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="38"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="38"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="38"> | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="38"> |
-|---|---|---|---|
-| Git | VS Code | Visual Studio | Postman |
-
----
-
-### 📊 GitHub Stats
-
-<div align="start">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarcosVilanova&show_icons=true&theme=tokyonight&hide_rank=true&show=prs,issues,contribs" width="48%" alt="GitHub Stats"/> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosVilanova&langs_count=8&theme=tokyonight&layout=compact" width="48%" alt="Top Languages"/>
+### Statitics
+<div class="badges-githubstats">
+   <img 
+          src="https://github-readme-stats.vercel.app/api?username=MarcosVilanova&show_icons=true&hide_border=true&count_private=true&bg_color=F8F9FA&title_color=000000&text_color=000000&icon_color=000000&border_radius=10" 
+          height="140"
+        />
+      </td>
+      <td>
+        <img 
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosVilanova&layout=compact&hide_border=true&bg_color=F8F9FA&title_color=000000&text_color=000000&border_radius=10" 
+          height="140"
+        />
 </div>
 
----
 
-
-### 🌐 Let's Connect!
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/marcosvilanova/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="38" alt="LinkedIn"/>
-  </a>&nbsp;
-  <a href="https://www.instagram.com/_marcosvilanova/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="38" alt="Instagram"/>
-  </a>
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=E9ECEF&height=120&section=footer&fontColor=000000" alt="footer"/>
