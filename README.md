@@ -8,7 +8,7 @@
 </p>
 
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=java,spring,js,react,vite,bootstrap,mysql,sqlite,html,css,php,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,js,react,vite,bootstrap,mysql,html,css,php,cs)](https://skillicons.dev)
 
 ### Ferramentas & IDEs
 [![Tools](https://skillicons.dev/icons?i=git,github,postman,webstorm,idea,visualstudio,vercel)](https://skillicons.dev)
