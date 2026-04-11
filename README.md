@@ -2,30 +2,39 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F8F9FA&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Hello+World+%F0%9F%91%8B;npm+run+dev+%F0%9F%9A%80" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=000000&center=true&vCenter=true&repeat=true&width=600&lines=Hello+World+👋;npm+run+dev+🚀" 
     alt="Typing SVG" 
   />
 </p>
 
-### Main skills
-[![My Skills](https://skillicons.dev/icons?i=java,spring,js,react,vite,bootstrap,mysql,html,css,php,cs)](https://skillicons.dev)
+---
 
-### Tools & IDEs
-[![Tools](https://skillicons.dev/icons?i=git,github,postman,webstorm,idea,visualstudio,vercel)](https://skillicons.dev)
+### 🚀 Main Skills
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,js,react,vite,bootstrap,mysql,html,css,php,cs" />
+</p>
 
-### Statitics
-<div class="badges-githubstats">
-   <img 
-          src="https://github-readme-stats.vercel.app/api?username=MarcosVilanova&show_icons=true&hide_border=true&count_private=true&bg_color=F8F9FA&title_color=000000&text_color=000000&icon_color=000000&border_radius=10" 
-          height="140"
-        />
-      </td>
-      <td>
-        <img 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosVilanova&layout=compact&hide_border=true&bg_color=F8F9FA&title_color=000000&text_color=000000&border_radius=10" 
-          height="140"
-        />
-</div>
+---
 
+### 🛠️ Tools & IDEs
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,webstorm,idea,visualstudio,vercel" />
+</p>
+
+---
+
+### 📊 Statistics
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=MarcosVilanova&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=1800" 
+    height="160"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosVilanova&layout=compact&hide_border=true&langs_count=8&cache_seconds=1800" 
+    height="160"
+  />
+</p>
+
+---
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=E9ECEF&height=120&section=footer&fontColor=000000" alt="footer"/>
